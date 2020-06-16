@@ -1,0 +1,96 @@
+
+4:43:01 PM	error	{"stack":"Error: Failed to set the 'adoptedStyleSheets' property on 'ShadowRoot': Sharing constructed stylesheets in multiple documents is not allowed\n at https://datanator.info/static/js/2.05828af8.chunk.js:2:1598074\n at j (https://datanator.info/	
+4:43:01 PM	error	{"stack":"Error: Failed to set the 'adoptedStyleSheets' property on 'ShadowRoot': Sharing constructed stylesheets in multiple documents is not allowed\n at https://datanator.info/static/js/2.05828af8.chunk.js:2:1598074\n at j (https://datanator.info/	
+4:43:00 PM	log	{"label":"Email","type":"text","id":"2-email","value":"test@test.com"}	
+4:43:00 PM	log	{"label":"Your name","type":"text","id":"1-your-name","value":"tester"}	
+4:43:00 PM	log	{"id":"agreement","type":"checkbox","label":"I agree to send a screenshot and technical information about my browser","value":true,"required":true}	
+4:43:00 PM	log	{"label":"Comments","type":"textarea","id":"title","required":true,"value":"test"}	
+4:42:51 PM	log	{"id":"agreement","type":"checkbox","label":"I agree to send a screenshot and technical information about my browser","value":false,"required":true}	
+4:42:51 PM	log	{"label":"Email","type":"text","id":"2-email"}	
+4:42:51 PM	log	{"label":"Your name","type":"text","id":"1-your-name"}	
+4:42:51 PM	log	{"label":"Comments","type":"textarea","id":"title","required":true}	
+4:42:50 PM	click	//div[@id="root"]/bruit-io[0]/#document-fragment/a/slot/div 
+	
+4:40:01 PM	click	//div[@id="top"]/div[0]/a[0] 
+ <span class="lazyload-wrapper..."> 
+ss<object class="logo-image...">	
+4:39:57 PM	click	//div[@id="root"]/div[1]/div[1]/div[0]/div[0]/div/div[0]/ul/li[5]/a 
+	
+4:39:56 PM	click	//div[@id="root"]/div[1]/div[1]/div[0]/div[0]/div/div[0]/ul/li[4]/a 
+	
+4:39:55 PM	click	//div[@id="root"]/div[1]/div[1]/div[0]/div[0]/div/div[0]/ul/li[2]/a 
+	
+4:39:52 PM	click	//div[@id="concentration"]/div[0]/div[0]/button[1] 
+	
+4:39:52 PM	click	//div[@id="concentration"]/div[0]/div[0]/button[0] 
+	
+4:39:49 PM	click	//div[@id="concentration"]/div[1]/div[0]/div[0]/div[1]/div/div/div/div/ul/li[1]/input[0] 
+	
+4:39:48 PM	click	//div[@id="concentration"]/div[1]/div[0]/div[0]/div[1]/div/div/div/div/ul/li[1]/input[0] 
+	
+4:39:46 PM	click	//div[@id="concentration"]/div[1]/div[0]/div[0]/div[0] 
+ <div class="MuiExpansionPanelSummary-content..."> Columns	
+4:39:46 PM	click	//div[@id="concentration"]/div[1]/div[0]/div[1]/div[0]/div[0] 
+	
+4:39:43 PM	click	//input[@id="ag-input-id-2365"] 
+	
+4:39:42 PM	click	//input[@id="ag-input-id-2367"] 
+	
+4:39:42 PM	click	//input[@id="ag-input-id-2077"] 
+	
+4:39:42 PM	click	//input[@id="ag-input-id-2371"] 
+	
+4:39:41 PM	click	//input[@id="ag-input-id-2375"] 
+	
+4:39:41 PM	click	//input[@id="ag-input-id-2377"] 
+	
+4:39:40 PM	click	//input[@id="ag-input-id-2079"] 
+	
+4:39:37 PM	click	//div[@id="concentration"]/div[1]/div[0]/div[2]/div[0]/div[0] 
+	
+4:39:35 PM	click	//div[@id="concentration"]/div[1]/div[0]/div[1]/div[1]/div/div/div/div/div/div[8]/div[0]/div[0] 
+	
+4:39:33 PM	click	//div[@id="concentration"]/div[1]/div[0]/div[1]/div[1]/div/div/div/div/div/div[6] 
+ <div class="MuiButtonBase-root..."> 
+ss<div class="MuiExpansionPanelSummary-content..."> 
+ssss<span> Taxonomic similarity	
+4:39:32 PM	GET =>	https://api.datanator.info/taxon/canonrankdistancebyname/	
+4:39:31 PM	click	//div[@id="concentration"]/div[1]/div[0]/div[1]/div[1]/div/div/div/div/div/div[6]/div[0] 
+ <div class="MuiExpansionPanelSummary-content..."> 
+ss<span> Taxonomic similarity	
+4:39:30 PM	click	//div[@id="concentration"]/div[1]/div[0]/div[1]/div[1]/div/div/div/div/div/div[4]/div[0]/div[0]/span 
+	
+4:39:28 PM	click	//div[@id="concentration"]/div[1]/div[0]/div[1]/div[1]/div/div/div/div/div/div[3]/div[1]/div/div/div/div/ul/li/input[0] 
+	
+4:39:27 PM	click	//div[@id="concentration"]/div[1]/div[0]/div[1]/div[1]/div/div/div/div/div/div[3]/div[1]/div/div/div/div/ul/li/input[0] 
+	
+4:39:27 PM	click	//div[@id="concentration"]/div[1]/div[0]/div[1]/div[1]/div/div/div/div/div/div[3]/div[1]/div/div/div/div/ul/li/span[0] 
+	
+4:39:26 PM	click	//div[@id="concentration"]/div[1]/div[0]/div[1]/div[1]/div/div/div/div/div/div[3]/div[0]/div[0] 
+	
+4:39:25 PM	click	//div[@id="concentration"]/div[1]/div[0]/div[1]/div[1]/div/div/div/div/div/div[2]/div[1]/div/div/div/div/ul/li[2]/input[0] 
+	
+4:39:24 PM	click	//div[@id="concentration"]/div[1]/div[0]/div[1]/div[1]/div/div/div/div/div/div[2]/div[1]/div/div/div/div/ul/li[2]/input[0] 
+	
+4:39:24 PM	click	//div[@id="concentration"]/div[1]/div[0]/div[1]/div[1]/div/div/div/div/div/div[2]/div[1]/div/div/div/div/ul/li[2]/span[0] 
+	
+4:39:23 PM	click	//div[@id="concentration"]/div[1]/div[0]/div[1]/div[1]/div/div/div/div/div/div[2]/div[1]/div/div/div/div/ul 
+ <li> 
+ss<input type="checkbox">	
+4:39:22 PM	click	//div[@id="concentration"]/div[1]/div[0]/div[1]/div[1]/div/div/div/div/div/div[2]/div[0]/div[0] 
+	
+4:39:22 PM	click	//div[@id="concentration"]/div[1]/div[0]/div[1]/div[1]/div/div/div/div/div/div[1]/div[1]/div/div/div/div/div 
+ <span class="MuiSlider-root..."> 
+ss<span class="MuiSlider-rail...">	
+4:39:21 PM	click	//div[@id="root"]/div[1]/div[1]/div[0] 
+ <div class="overview-column..."> 
+ss<div class="content-block..."> 
+ssss<h2 class="content-block-heading..."> Contents	
+4:39:19 PM	click	//div[@id="concentration"]/div[1]/div[0]/div[1]/div[1]/div/div/div/div/div/div[1]/div[0]/div[0] 
+	
+4:39:18 PM	click	//div[@id="concentration"]/div[1]/div[0]/div[1]/div[1]/div/div/div/div/div/div[0]/div[1]/div/div/div/div/div/span 
+ <span class="MuiSlider-rail...">	
+4:39:16 PM	click	//div[@id="concentration"]/div[1]/div[0]/div[1]/div[1]/div/div/div/div/div/div[0]/div[0]/div[0] 
+	
+4:39:11 PM	GET =>	https://api.datanator.info/ftx/textsearch/numof_index/	
+4:39:11 PM	GET =>	https://api.datanator.info/taxon/canonrankdistancebyname/	
