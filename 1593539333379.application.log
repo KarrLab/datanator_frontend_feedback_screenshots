@@ -1,0 +1,40 @@
+
+7:48:43 PM	log	{"id":"agreement","type":"checkbox","label":"I agree to send a screenshot and technical information about my browser","value":true,"required":true}	
+7:48:43 PM	log	{"label":"Email","type":"text","id":"2-email"}	
+7:48:43 PM	log	{"label":"Your name","type":"text","id":"1-your-name","value":"Bilal"}	
+7:48:43 PM	log	{"label":"Comments","type":"textarea","id":"title","required":true,"value":"When clicking on the text input to search, it is not clear that the input field has been selected. Using a css class to highlight the box when selected will make it clearer "	
+7:47:41 PM	log	{"id":"agreement","type":"checkbox","label":"I agree to send a screenshot and technical information about my browser","value":false,"required":true}	
+7:47:41 PM	log	{"label":"Email","type":"text","id":"2-email"}	
+7:47:41 PM	log	{"label":"Your name","type":"text","id":"1-your-name"}	
+7:47:41 PM	log	{"label":"Comments","type":"textarea","id":"title","required":true}	
+7:47:41 PM	click	// 
+	
+7:47:39 PM	click	// 
+	
+7:47:38 PM	click	// 
+	
+7:47:38 PM	click	// 
+	
+7:47:36 PM	click	// 
+	
+7:47:36 PM	click	// 
+	
+7:47:35 PM	click	// 
+	
+7:47:35 PM	click	// 
+	
+7:47:35 PM	click	// 
+	
+7:47:34 PM	click	// 
+	
+7:47:34 PM	click	// 
+	
+7:47:34 PM	click	// 
+	
+7:47:34 PM	click	// 
+	
+7:47:34 PM	click	// 
+	
+7:47:09 PM	click	// 
+ <object class="logo-image...">	
+7:46:54 PM	url	https://datanator.info/	
