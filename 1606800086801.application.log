@@ -1,0 +1,15 @@
+
+6:21:12 AM	error	{"stack":"Error: Failed to set the 'adoptedStyleSheets' property on 'ShadowRoot': Sharing constructed stylesheets in multiple documents is not allowed\n at https://datanator.info/static/js/2.69d9cf33.chunk.js:2:1627494\n at j (https://datanator.info/	
+6:21:12 AM	error	{"stack":"Error: Failed to set the 'adoptedStyleSheets' property on 'ShadowRoot': Sharing constructed stylesheets in multiple documents is not allowed\n at https://datanator.info/static/js/2.69d9cf33.chunk.js:2:1627494\n at j (https://datanator.info/	
+6:21:11 AM	log	{"id":"agreement","type":"checkbox","label":"I agree to send a screenshot and technical information about my browser","value":true,"required":true}	
+6:21:11 AM	log	{"label":"Comments","type":"textarea","id":"title","required":true,"value":"test"}	
+6:21:11 AM	log	{"label":"Your name","type":"text","id":"1-your-name","value":"tester"}	
+6:21:11 AM	log	{"label":"Email","type":"text","id":"2-email","value":"test@test.com"}	
+6:21:03 AM	log	{"id":"agreement","type":"checkbox","label":"I agree to send a screenshot and technical information about my browser","value":false,"required":true}	
+6:21:03 AM	log	{"label":"Comments","type":"textarea","id":"title","required":true}	
+6:21:03 AM	log	{"label":"Your name","type":"text","id":"1-your-name"}	
+6:21:03 AM	log	{"label":"Email","type":"text","id":"2-email"}	
+6:21:03 AM	click	//div[@id="root"]/bruit-io[0]/#document-fragment/a/slot/div 
+	
+6:21:01 AM	POST =>	https://stats.g.doubleclick.net/j/collect	
+6:21:01 AM	url	https://datanator.info/	
