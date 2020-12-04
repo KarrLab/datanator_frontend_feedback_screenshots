@@ -1,0 +1,63 @@
+
+3:37:10 PM	error	{"stack":"Error: Failed to set the 'adoptedStyleSheets' property on 'ShadowRoot': Sharing constructed stylesheets in multiple documents is not allowed\n at https://datanator.info/static/js/2.69d9cf33.chunk.js:2:1627494\n at j (https://datanator.info/	
+3:37:10 PM	error	{"stack":"Error: Failed to set the 'adoptedStyleSheets' property on 'ShadowRoot': Sharing constructed stylesheets in multiple documents is not allowed\n at https://datanator.info/static/js/2.69d9cf33.chunk.js:2:1627494\n at j (https://datanator.info/	
+3:37:07 PM	log	{"label":"Email","type":"text","id":"2-email"}	
+3:37:07 PM	log	{"id":"agreement","type":"checkbox","label":"I agree to send a screenshot and technical information about my browser","value":true,"required":true}	
+3:37:07 PM	log	{"label":"Comments","type":"textarea","id":"title","required":true,"value":"The API does not have the correct CORS Setting set to allow for the front end to call the summary data"}	
+3:37:07 PM	log	{"label":"Your name","type":"text","id":"1-your-name"}	
+3:36:11 PM	log	{"id":"agreement","type":"checkbox","label":"I agree to send a screenshot and technical information about my browser","value":false,"required":true}	
+3:36:11 PM	log	{"label":"Email","type":"text","id":"2-email"}	
+3:36:11 PM	log	{"label":"Your name","type":"text","id":"1-your-name"}	
+3:36:11 PM	log	{"label":"Comments","type":"textarea","id":"title","required":true}	
+3:36:11 PM	click	//div[@id="root"]/bruit-io[0]/#document-fragment/a/slot/div 
+	
+3:36:00 PM	POST 400	https://api.airbrake.io/api/v3/projects/275996/notices?key=527a182e6ad1d36557df055c2d85df51	
+3:36:00 PM	POST =>	https://api.airbrake.io/api/v3/projects/275996/notices	
+3:36:00 PM	POST 400	https://api.airbrake.io/api/v3/projects/275996/notices?key=527a182e6ad1d36557df055c2d85df51	
+3:35:59 PM	POST =>	https://api.airbrake.io/api/v3/projects/275996/notices	
+3:35:49 PM	GET =>	https://api.datanator.info/reactions/summary/get_frequency/	
+3:35:49 PM	GET =>	https://api.datanator.info/reactions/summary/get_frequency/	
+3:35:49 PM	GET =>	https://raw.githubusercontent.com/KarrLab/datanatorquerypython/testapi/docs/taxondistributionfrontend.json	
+3:35:49 PM	GET =>	https://api.datanator.info/rna/summary/get_distinct/	
+3:35:49 PM	GET =>	https://api.datanator.info/proteins/summary/num_publications/	
+3:35:49 PM	GET =>	https://api.datanator.info/reactions/summary/num_refs/	
+3:35:49 PM	GET =>	https://api.datanator.info/metabolites/summary/curatedrefcount/	
+3:35:49 PM	GET =>	https://api.datanator.info/metabolites/summary/ymdbrefcount/	
+3:35:49 PM	GET =>	https://api.datanator.info/metabolites/summary/ecmdbrefcount/	
+3:35:49 PM	GET =>	https://api.datanator.info/metabolites/summary/ymdbconccount/	
+3:35:49 PM	GET =>	https://api.datanator.info/reactions/summary/getsabioobs/	
+3:35:49 PM	GET =>	https://api.datanator.info/reactions/summary/getsabioobs/	
+3:35:49 PM	GET =>	https://api.datanator.info/reactions/summary/getsabioobs/	
+3:35:49 PM	GET =>	https://api.datanator.info/proteins/summary/numobsabundances/	
+3:35:49 PM	GET =>	https://api.datanator.info/proteins/summary/numobsabundances/	
+3:35:49 PM	GET =>	https://api.datanator.info/rna/summary/gettotalmodifications/	
+3:35:49 PM	GET =>	https://api.datanator.info/metabolites/summary/ecmdbconccount/	
+3:35:49 PM	GET =>	https://api.datanator.info/rna/summary/get_distinct/	
+3:35:49 PM	GET =>	https://api.datanator.info/reactions/summary/numparameterkm/	
+3:35:49 PM	GET =>	https://api.datanator.info/proteins/summary/numobsabundances/	
+3:35:49 PM	GET =>	https://api.datanator.info/proteins/summary/numobsmodifications/	
+3:35:49 PM	GET =>	https://api.datanator.info/reactions/summary/numparameterkcat/	
+3:35:49 PM	GET =>	https://api.datanator.info/rna/summary/gettotalhalflife_obs/	
+3:35:49 PM	GET =>	https://api.datanator.info/rna/summary/gettotalmodifications/	
+3:35:49 PM	GET =>	https://api.datanator.info/metabolites/summary/concentration_count/	
+3:35:49 PM	click	//div[@id="top"]/div[1]/a[2]/button/span[1] 
+	
+3:35:16 PM	click	//div[@id="root"]/div[2] 
+ <span class="footer-item..."> Version 2020.08.03	
+3:35:14 PM	click	//div[@id="root"] 
+ <div id="top" class="header-component..."> 
+ss<a class="logo-title-container..." href="/"> 
+ssss<div class="logo..."> 
+ssssss<object class="logo-image...">	
+3:35:13 PM	click	//div[@id="root"] 
+ <div id="top" class="header-component..."> 
+ss<a class="logo-title-container..." href="/"> 
+ssss<div class="logo..."> 
+ssssss<object class="logo-image...">	
+3:35:09 PM	click	//div[@id="reactions"]/div 
+	
+3:34:59 PM	GET =>	https://api.datanator.info/ftx/textsearch/numof_index/	
+3:34:58 PM	GET =>	https://api.datanator.info/taxon/canonrankdistancebyname/	
+3:34:58 PM	GET =>	https://api.datanator.info/taxon/canonrankdistancebyname/	
+3:34:58 PM	GET =>	https://api.datanator.info/metabolites/concentrations/similar_compounds/	
+3:34:58 PM	GET =>	https://api.datanator.info/metabolites/meta/	
