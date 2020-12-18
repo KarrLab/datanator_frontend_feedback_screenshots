@@ -1,0 +1,15 @@
+
+10:18:05 PM	error	{"stack":"Error: Failed to set the 'adoptedStyleSheets' property on 'ShadowRoot': Sharing constructed stylesheets in multiple documents is not allowed\n at https://datanator.info/static/js/2.69d9cf33.chunk.js:2:1627494\n at j (https://datanator.info/	
+10:18:05 PM	error	{"stack":"Error: Failed to set the 'adoptedStyleSheets' property on 'ShadowRoot': Sharing constructed stylesheets in multiple documents is not allowed\n at https://datanator.info/static/js/2.69d9cf33.chunk.js:2:1627494\n at j (https://datanator.info/	
+10:17:34 PM	log	{"label":"Your name","type":"text","id":"1-your-name"}	
+10:17:34 PM	log	{"label":"Email","type":"text","id":"2-email"}	
+10:17:34 PM	log	{"id":"agreement","type":"checkbox","label":"I agree to send a screenshot and technical information about my browser","value":false,"required":true}	
+10:17:34 PM	log	{"label":"Comments","type":"textarea","id":"title","required":true}	
+10:17:34 PM	click	//div[@id="root"]/bruit-io[0]/#document-fragment/a/slot/div 
+	
+10:17:31 PM	click	//div[@id="root"]/div[1] 
+ <div class="title..."> 
+ss<svg>	
+10:17:12 PM	click	//div[@id="root"]/div[1]/div[2]/a[1] 
+	
+10:17:01 PM	url	https://datanator.info/metabolite/KTVPXOYAKDPRHY-AIHAYLRMSA-N/Mycoplasma%20pneumoniae/	
