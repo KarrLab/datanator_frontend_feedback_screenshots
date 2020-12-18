@@ -1,0 +1,74 @@
+
+10:25:54 PM	error	{"stack":"Error: Failed to set the 'adoptedStyleSheets' property on 'ShadowRoot': Sharing constructed stylesheets in multiple documents is not allowed\n at https://datanator.info/static/js/2.69d9cf33.chunk.js:2:1627494\n at j (https://datanator.info/	
+10:25:54 PM	error	{"stack":"Error: Failed to set the 'adoptedStyleSheets' property on 'ShadowRoot': Sharing constructed stylesheets in multiple documents is not allowed\n at https://datanator.info/static/js/2.69d9cf33.chunk.js:2:1627494\n at j (https://datanator.info/	
+10:24:53 PM	log	{"label":"Email","type":"text","id":"2-email"}	
+10:24:53 PM	log	{"label":"Your name","type":"text","id":"1-your-name"}	
+10:24:53 PM	log	{"id":"agreement","type":"checkbox","label":"I agree to send a screenshot and technical information about my browser","value":false,"required":true}	
+10:24:53 PM	log	{"label":"Comments","type":"textarea","id":"title","required":true}	
+10:24:53 PM	click	//div[@id="root"]/bruit-io[0]/#document-fragment/a/slot/div 
+	
+10:23:35 PM	click	//div[@id="root"]/div[1]/div[1]/div[0]/div[1]/div[0] 
+ <div id="id" class="content-block..."> 
+ss<h2 class="content-block-heading..."> Id	
+10:23:27 PM	click	//div[@id="root"]/div[1]/div[1]/div[0] 
+ <div class="overview-column..."> 
+ss<div class="content-block..."> 
+ssss<h2 class="content-block-heading..."> Contents	
+10:22:07 PM	GET =>	https://api.datanator.info/ftx/textsearch/numof_index/	
+10:22:07 PM	GET =>	https://api.datanator.info/metabolites/concentrations/similar_compounds/	
+10:22:07 PM	GET =>	https://api.datanator.info/metabolites/meta/	
+10:22:07 PM	click	//div[@id="metabolites"]/div[0]/div/ul[0]/li[0]/div[0]/a 
+	
+10:21:46 PM	GET =>	https://api.datanator.info/ftx/textsearch/numof_index/	
+10:21:46 PM	GET =>	https://api.datanator.info/ftx/textsearch/generankedbyko/	
+10:21:46 PM	GET =>	https://api.datanator.info/ftx/textsearch/numof_index/	
+10:21:46 PM	click	//div[@id="top"]/div[0]/form/button[0] 
+ <span class="bp3-icon..."> 
+ss<svg>	
+10:21:43 PM	click	//div[@id="top"]/div[0]/form/span[0]/span/div/input[0] 
+	
+10:21:42 PM	click	//div[@id="top"]/div[0]/form/span[0]/span/div/input[0] 
+	
+10:21:42 PM	click	//div[@id="top"]/div[0]/form/span[0]/span/div/input[0] 
+	
+10:21:42 PM	click	//div[@id="top"]/div[0]/form/span[0]/span/div/input[0] 
+	
+10:19:01 PM	GET =>	https://api.datanator.info/metabolites/concentrations/similar_compounds/	
+10:19:01 PM	click	//div[@id="metabolites"]/div[0]/div/ul[0]/li[1]/div[0]/a 
+	
+10:18:55 PM	click	//div[@id="root"]/div[1]/div[0]/div/form[0]/button[0]/span/svg/path[0] 
+	
+10:18:53 PM	click	//body[0]/div[3]/div/div/div/div[1]/div/ul/li[2]/a 
+ <div class="bp3-text-overflow-ellipsis..."> Mycoplasma pneumoniae	
+10:18:47 PM	click	//div[@id="root"]/div[1]/div[0]/div/form[0]/span[1]/span/span/span/div/input[0] 
+	
+10:18:33 PM	click	//div[@id="root"]/div[1]/div[0]/div/form[0]/span[1]/span/span/span/div/input[0] 
+	
+10:18:26 PM	click	//div[@id="root"]/div[1]/div[0]/div/form[0]/span[0]/span/div/input[0] 
+	
+10:18:23 PM	click	//div[@id="root"]/div/div[2]/a[0] 
+	
+10:18:12 PM	click	//div[@id="root"] 
+ <div id="top" class="header-component..."> 
+ss<a class="logo-title-container..." href="/"> 
+ssss<div class="logo..."> 
+ssssss<object class="logo-image...">	
+10:18:09 PM	log	{"id":"agreement","type":"checkbox","label":"I agree to send a screenshot and technical information about my browser","value":true,"required":true}	
+10:18:09 PM	log	{"label":"Email","type":"text","id":"2-email","value":"Arthur.Goldberg@mssm.edu"}	
+10:18:09 PM	log	{"label":"Your name","type":"text","id":"1-your-name","value":"Arthur P Goldberg"}	
+10:18:09 PM	log	{"label":"Comments","type":"textarea","id":"title","required":true,"value":"Page not foundd"}	
+10:18:06 PM	POST =>	https://api.bruit.io/feedback/multipart/utf16	
+10:18:05 PM	error	{"stack":"Error: Failed to set the 'adoptedStyleSheets' property on 'ShadowRoot': Sharing constructed stylesheets in multiple documents is not allowed\n at https://datanator.info/static/js/2.69d9cf33.chunk.js:2:1627494\n at j (https://datanator.info/	
+10:18:05 PM	error	{"stack":"Error: Failed to set the 'adoptedStyleSheets' property on 'ShadowRoot': Sharing constructed stylesheets in multiple documents is not allowed\n at https://datanator.info/static/js/2.69d9cf33.chunk.js:2:1627494\n at j (https://datanator.info/	
+10:17:34 PM	log	{"id":"agreement","type":"checkbox","label":"I agree to send a screenshot and technical information about my browser","value":false,"required":true}	
+10:17:34 PM	log	{"label":"Email","type":"text","id":"2-email"}	
+10:17:34 PM	log	{"label":"Your name","type":"text","id":"1-your-name"}	
+10:17:34 PM	log	{"label":"Comments","type":"textarea","id":"title","required":true}	
+10:17:34 PM	click	//div[@id="root"]/bruit-io[0]/#document-fragment/a/slot/div 
+	
+10:17:31 PM	click	//div[@id="root"]/div[1] 
+ <div class="title..."> 
+ss<svg>	
+10:17:12 PM	click	//div[@id="root"]/div[1]/div[2]/a[1] 
+	
+10:17:01 PM	url	https://datanator.info/metabolite/KTVPXOYAKDPRHY-AIHAYLRMSA-N/Mycoplasma%20pneumoniae/	
